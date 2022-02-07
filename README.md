@@ -1,4 +1,4 @@
-# STA Website Helpers
+# README
 
 A template for beginning NodeJS Typescript projects with minimal setup.
 This template sets up the following:
